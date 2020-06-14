@@ -1,3 +1,4 @@
+<!-- this is a new comment -->
 <!--menu area starts-->
 
     <section>
